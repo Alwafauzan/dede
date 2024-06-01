@@ -1,5 +1,0 @@
-1. klik kanan
-2. pilih 'git bash here
-3. ketik 'git add .'
-3. ketik 'git commit -m "tanggal sekarang"'
-4. ketik 'git push'
